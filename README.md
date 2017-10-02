@@ -3,8 +3,8 @@
 常用库(https://github.com/maoxianglong)
 
 # 内容说明
- 工具 | 描述
- ---  | ---
+ 工具  描述
+ ---   ---
 
 AnimationUtils   动画工具类
 AppUtils  APP相关信息工具类
